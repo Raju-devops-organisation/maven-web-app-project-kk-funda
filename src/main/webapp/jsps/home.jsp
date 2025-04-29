@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK Raju Dev 30th april 8:45 to 10am IST </h1>
+<h1 align="center">Welcome to KK Raju Dev  1 april 8:45 to 10am IST </h1>
 <h1 align="center"> KK raju</h1>
 <hr>
 <br>
